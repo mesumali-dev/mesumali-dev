@@ -1,6 +1,7 @@
 # **Hi! i'm Mesum Ali**  
 
 I’m a Full Stack & Software Developer who helps businesses make their work easier, faster, and scalable. Along with building high-performance web platforms using Next.js, Node.js, Python, and AI tools, I also develop custom ERP software that streamlines business operations. I specialize in creating solutions that are fast, maintainable, and aligned with business goals.
+
 ---
 
 ## ⚙️ **Tech Stack**  
