@@ -47,15 +47,6 @@
 
 ---
 
-### GitHub Telemetry
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mesumali-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesumali-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### Connect
 
 - **Portfolio:** [mesumali.xyz](https://www.mesumali.xyz)
